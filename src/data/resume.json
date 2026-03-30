@@ -1,0 +1,192 @@
+{
+  "basics": {
+    "name": "Shreya Patel",
+    "title": "Senior Full-Stack Software Engineer",
+    "summary": "Senior Full-Stack Software Engineer with 7+ years of experience designing and delivering impactful systems at scale across Health, E-commerce, Retail, Automobile, and Banking domains. Expertise in building high-performance frontend systems (React, Angular) and robust backend services (Node.js, FastAPI) with a strong focus on reactive web apps, API design, and cloud deployment. Experienced in leading cross-functional teams and architecting scalable frontend and microservice-based systems. Applied AI-assisted engineering workflows to accelerate development velocity and improve code quality.",
+    "location": "Greater Chicago Area",
+    "email": "koladiashreya1993@gmail.com",
+    "phone": "(201) 989-8561",
+    "workAuthorization": "US Citizen",
+    "links": [
+      {
+        "name": "LinkedIn",
+        "url": "https://www.linkedin.com/in/shreya-patel5"
+      }
+    ]
+  },
+  "experience": [
+    {
+      "company": "TCS | Johnson & Johnson",
+      "role": "Senior Software Engineer",
+      "dates": "November 2023 - July 2025",
+      "location": "United States",
+      "bullets": [
+        "Led a team of 5 to build a responsive vaccination platform using React 18 and Node.js, serving 10K+ users and improving accessibility.",
+        "Architected Node.js (Express) microservices, enabling scalable SaaS applications handling 2x traffic growth without performance degradation.",
+        "Improved MongoDB database performance by 15% through indexing optimization and schema redesign.",
+        "Led the standardization of frontend architecture and reusable component patterns across multiple teams, reducing code duplication by 25% and accelerating feature development.",
+        "Reduced state synchronization issues by implementing structured Redux architecture and API normalization.",
+        "Leveraged AI-assisted development tools (Claude, GitHub Copilot) to accelerate feature delivery by ~30% and reduce debugging time."
+      ],
+      "techStack": "Node.js, React 18, Redux, HTML5, CSS3, JSX, JavaScript, Jest, Bitbucket, Responsive Web Design"
+    },
+    {
+      "company": "TCS | Citi Bank",
+      "role": "Senior Software Engineer",
+      "dates": "September 2020 - November 2023",
+      "location": "Fremont, California, United States",
+      "bullets": [
+        "Architected scalable frontend modules for Citi's online Banking Dashboard application using React 18, Node.js and Angular 13, serving 20+ million users.",
+        "Architected and integrated RESTful APIs for Citi's banking dashboard, incorporating caching, debouncing, and error handling to ensure secure, high-availability data delivery for millions of users.",
+        "Achieved a 15% reduction in initial page load time by optimizing state management, introducing strategic code splitting and lazy loading, and designing shared UI architecture.",
+        "Established comprehensive event tagging and analytics monitoring across high-traffic web applications, reducing incident response time by 20% and improving user retention by 15%.",
+        "Automated end-to-end CI/CD pipelines using Jenkins, slashing deployment time and maintaining a 99% success rate across production releases.",
+        "Led a cross-functional team conducting code reviews and technical mentoring that increased team velocity and ensured high-quality deliverables."
+      ],
+      "techStack": "React 18, Node.js, Angular 13, Redux Toolkit, Jasmine & Karma, Jest, BitBucket, Jenkins"
+    },
+    {
+      "company": "Pyramid Consulting | Southern Company Services",
+      "role": "Software Developer",
+      "dates": "December 2019 - April 2020",
+      "location": "Illinois, United States",
+      "bullets": [
+        "Implemented server-side data aggregation logic using FastAPI, designing optimized endpoints to consolidate meter readings, reducing frontend processing overhead and improving dashboard load performance.",
+        "Built a React-based data analytics platform to track auto gas meter installations, improving operational tracking efficiency by 15%.",
+        "Developed reusable custom hooks and optimized API data fetching, reducing redundant network calls and improving page responsiveness.",
+        "Pioneered enhanced application responsiveness with strategic lazy loading, reducing initial page load by 1.8 seconds and elevating performance metrics."
+      ],
+      "techStack": "FastAPI, React 16, Jest and React testing library, _loDash, TFS, Agile, Scrum"
+    },
+    {
+      "company": "Marlabs | AutoNation",
+      "role": "Frontend Developer",
+      "dates": "May 2018 - December 2019",
+      "location": "White Plains, New York, United States",
+      "bullets": [
+        "Developed scalable React and Angular SPAs for e-commerce and order management systems, supporting thousands of daily users.",
+        "Built reusable UI components and refined state management strategies to enhance maintainability and reduce code duplication.",
+        "Deployed applications on AWS (EC2, S3) and integrated AWS SES for transactional email automation.",
+        "Spearheaded unit testing in a TDD environment, improving code reliability and reducing regression defects.",
+        "Designed responsive data visualization dashboards to support real-time business decision-making.",
+        "Utilized Sass, Bootstrap, and Media Queries for styling, adhering to the company's style guide."
+      ],
+      "techStack": "React 16.8, Typescript, ES6, JSON, Bootstrap 4.0, API, chart.js, Babel, GIT, Jasmine, AWS SES, AWS S3, HandlebarsJS"
+    }
+  ],
+  "achievements": [
+    {
+      "metric": "20M+",
+      "context": "Users served at Citi Banking Dashboard",
+      "type": "scale"
+    },
+    {
+      "metric": "15%",
+      "context": "Reduction in page load time through optimization",
+      "type": "metric"
+    },
+    {
+      "metric": "25%",
+      "context": "Reduction in code duplication through standardization",
+      "type": "efficiency"
+    },
+    {
+      "metric": "~30%",
+      "context": "Improvement in developer velocity using AI tools",
+      "type": "velocity"
+    },
+    {
+      "metric": "2x",
+      "context": "Traffic growth handled without performance loss",
+      "type": "scale"
+    },
+    {
+      "metric": "20%",
+      "context": "Reduction in incident response time",
+      "type": "metric"
+    },
+    {
+      "metric": "99%",
+      "context": "Success rate across production releases",
+      "type": "reliability"
+    },
+    {
+      "metric": "1.8s",
+      "context": "Reduction in initial page load via lazy loading",
+      "type": "metric"
+    }
+  ],
+  "skills": {
+    "Frontend": [
+      "React 18",
+      "Angular 13",
+      "TypeScript",
+      "JavaScript (ES6+)",
+      "Redux Toolkit",
+      "Next.js",
+      "HTML5",
+      "CSS3",
+      "Sass",
+      "Bootstrap"
+    ],
+    "Backend": [
+      "Node.js",
+      "Express.js",
+      "REST APIs",
+      "FastAPI",
+      "GraphQL",
+      "Microservices",
+      "Python"
+    ],
+    "Databases": [
+      "MongoDB",
+      "SQL",
+      "PostgreSQL",
+      "MySQL (Relational Database)"
+    ],
+    "Cloud & DevOps": [
+      "AWS (EC2, S3, SES)",
+      "Jenkins CI/CD",
+      "Azure DevOps",
+      "Docker",
+      "Kubernetes"
+    ],
+    "Testing": [
+      "Jest",
+      "React Testing Library",
+      "Jasmine",
+      "Karma",
+      "TDD"
+    ],
+    "Tools & Other": [
+      "Git",
+      "Bitbucket",
+      "Agile/Scrum",
+      "SDLC",
+      "Claude",
+      "GitHub Copilot",
+      "ChatGPT"
+    ]
+  },
+  "education": [
+    {
+      "school": "Touro College, New York",
+      "degree": "Master of Science in Information Systems",
+      "dates": ""
+    },
+    {
+      "school": "YCMOU, India",
+      "degree": "Bachelor of Sciences in Computer Applications",
+      "dates": ""
+    },
+    {
+      "school": "University of Mumbai, India",
+      "degree": "Bachelor of Commerce (Finance)",
+      "dates": ""
+    }
+  ],
+  "extra": [
+    "Work Authorization: US Citizen"
+  ]
+}
+
